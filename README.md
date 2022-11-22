@@ -25,5 +25,5 @@
 <a href="https://www.linkedin.com/in/edivan-da-silva-junior-955731210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/edivansilvajr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/edivansilvajr/edivansilvajr/blob/output/github-contribution-grid-snake.svg)
 
