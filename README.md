@@ -2,7 +2,6 @@
 
 - 🔭 Estou em processo de migração de carreira para front-end
 - 🌱 No momento estou aprendendo JavaScript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/edivansilvajr">
