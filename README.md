@@ -1,7 +1,7 @@
 ### Olá ! Eu sou Edivan Silva Junior 👋
 
 - 🔭 Estou em processo de migração de carreira para Full Stack JavaScript
-- 🌱 No momento estou aprendendo express
+- 🌱 No momento estou aprendendo node e express
 
 <div align="center">
   <a href="https://github.com/edivansilvajr">
