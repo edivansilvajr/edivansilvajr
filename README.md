@@ -17,6 +17,7 @@
 ## 🚀 Tecnologias que utilizo
 
 <table>
+  <!-- Primeira Linha com 4 Colunas -->
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="40" alt="JavaScript"><br>
@@ -26,8 +27,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="40" alt="NodeJS"><br>
       <b>NodeJS</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="40" alt="Express"><br>
       <b>Express</b>
@@ -37,6 +36,7 @@
       <b>PostgreSQL</b>
     </td>
   </tr>
+  <!-- Segunda Linha com 4 Colunas -->
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="40" alt="HTML"><br>
@@ -46,8 +46,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="40" alt="CSS"><br>
       <b>CSS3</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="40" alt="Git"><br>
       <b>Git</b>
