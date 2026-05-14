@@ -5,13 +5,6 @@
 📚 Estudando arquitetura backend, autenticação, deploy Linux/VPS e boas práticas de desenvolvimento  
 ⚙️ Construindo aplicações modulares e reutilizáveis para projetos reais
 
-<div align="center">
-  <a href="https://github.com/edivansilvajr">
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=edivansilvajr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://ghstats.dev/api/card?username=edivansilvajr&theme=dracula)"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivansilvajr&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
 ---
 
 ## 🚀 Tecnologias que utilizo
